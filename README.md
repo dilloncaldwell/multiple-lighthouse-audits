@@ -1,6 +1,6 @@
 # Run Lighthouse from terminal for Multiple URLS
 
-This will run lighthouse audit for multiple urls specified in the `listOfUrls.json` file and will run then in parallel for faster speeds and will open the results for both mobile and desktop for each url
+This will run lighthouse audit for multiple urls specified in the `listOfUrls.json` file and will run then in parallel for faster speeds and will open the results for both mobile and desktop for each url. For most accurate scores limit urls to 3 as more the scores will start to differ.
 
 ## Sources:
 
